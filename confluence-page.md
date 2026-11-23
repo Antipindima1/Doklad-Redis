@@ -52,8 +52,7 @@ Redis не заменяет Kafka и TimescaleDB — он хранит акту�
 
 | Материал | Ссылка |
 |---|---|
-| Презентация, 13 слайдов (PDF) | [Презентация кэширования.pdf](https://github.com/Antipindima1/Doklad-Redis/blob/main/Презентация%20кэширования.pdf) |
+| Презентация, 13 слайдов (Markdown, Marp) | [Презентация кэширования.md](https://github.com/Antipindima1/Doklad-Redis/blob/main/Презентация%20кэширования.md) |
 | Текст доклада (PDF) | [Презентация кеширование+редис.pdf](https://github.com/Antipindima1/Doklad-Redis/blob/main/Презентация%20кеширование%2Bредис.pdf) |
 | Redis в проекте «Система каршеринга» (PDF) | [Redis_v_proekte_Carsharing.pdf](https://github.com/Antipindima1/Doklad-Redis/blob/main/Redis_v_proekte_Carsharing.pdf) |
 | Исходники (.pptx, .docx) и описание репозитория | [README](https://github.com/Antipindima1/Doklad-Redis#readme) |
-| Презентация в Markdown (Marp) | [slides.md](https://github.com/Antipindima1/Doklad-Redis/blob/main/slides.md) |
